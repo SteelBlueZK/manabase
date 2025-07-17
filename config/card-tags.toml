@@ -657,7 +657,7 @@
 "Everglades" = ["Bounce Land", "Mono Bounce Land", "Colorless Mana", "Black Mana", "Tapland"]
 "Everythingamajig" = ["Colorless Mana", "Any Color Mana"]
 "Evolution Charm" = ["Tutor", "Basic Tutor"]
-"Evolving Wilds" = ["Fetch", "Basic Fetch", "Sac Land", "Basic Fetch Land"]
+"Evolving Wilds" = ["Manaless Land", "Fetch", "Basic Fetch", "Sac Land", "Basic Fetch Land"]
 "Excavation Explosion" = ["Powerstone"]
 "Excavation Technique" = ["Treasure"]
 "Exhibition Magician" = ["Treasure"]
